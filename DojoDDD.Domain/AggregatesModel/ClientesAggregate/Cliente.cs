@@ -9,5 +9,12 @@ namespace DojoDDD.Domain
         public string Endereco { get; private set; }
         public int Idade { get; private set; }
         public decimal Saldo { get; private set; }
+
+        public Cliente(string id, string nome, decimal saldo)
+        {
+            Id = id;
+            Nome = nome;
+            Saldo = saldo;
+        }
     }
 }
