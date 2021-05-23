@@ -59,7 +59,7 @@ namespace DojoDDD.Api.Services
             {
                 await _ordemCompraRepositorio.AlterarOrdemCompra(ordemDeCompra, OrdemCompraStatus.EmAnalise).ConfigureAwait(false);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return false;
                 throw;

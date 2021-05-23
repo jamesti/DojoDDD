@@ -10,7 +10,7 @@ namespace DojoDDD.Domain
             Status = OrdemCompraStatus.Solicitado;
         }
 
-        public string Id { get; } = Guid.NewGuid().ToString();
+        public new string Id { get; } = Guid.NewGuid().ToString();
 
         public DateTime DataOperacao { get; private set; }
         public int ProdutoId { get; private set; }
