@@ -1,5 +1,5 @@
 # DojoDDD
-Exemplo de implementação de uma arquitetura DDD para uma API de Ordens de Compras.
+Exemplo de implementação em uma abordagem de modelagem DDD para uma API de Ordens de Compras.
 
 ![DojoDDD - Ordens de Compras](https://sn3301files.storage.live.com/y4mpZfPhmJ0S0eQHshoMkIb-t7w6Up_m174IkKyc0m_rFWpn380ev47UMNP_7w01NdESV-4yKjJslHxQXOQrVbw0vOlfYqI8Yyg9BayYVJm55suA9x6S6DYvxnOCPCclPg856t3xlE_L-qMj3icUMhi-3SHlq8p47tfJcM6E5HGOAOuZW5Fq_ch6ZIHqn7G-79G?width=1280&height=720&cropmode=none)
 
